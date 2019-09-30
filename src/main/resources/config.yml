@@ -1,0 +1,39 @@
+probabilities:
+  0:
+  1:
+    COAL_ORE: 0.006
+  2:
+    COAL_ORE: 0.007
+    IRON_ORE: 0.002
+    LAPIS_ORE: 0.0001
+  3:
+    COAL_ORE: 0.008
+    IRON_ORE: 0.004
+    REDSTONE_ORE: 0.0001
+    LAPIS_ORE: 0.0004
+  4:
+    COAL_ORE: 0.009
+    IRON_ORE: 0.006
+    REDSTONE_ORE: 0.00015
+    GOLD_ORE: 0.0025
+    LAPIS_ORE: 0.0007
+  5:
+    COAL_ORE: 0.01
+    IRON_ORE: 0.008
+    REDSTONE_ORE: 0.0002
+    GOLD_ORE: 0.005
+    LAPIS_ORE: 0.001
+    DIAMOND_ORE: 0.0001
+    EMERALD_ORE: 0.000025
+prices:
+  1:
+    COBBLESTONE: 320
+  2:
+    COAL: 32
+  3:
+    IRON_INGOT: 16
+    LAPIS_LAZULI: 32
+  4:
+    REDSTONE: 64
+  5:
+    GOLD_INGOT: 64
