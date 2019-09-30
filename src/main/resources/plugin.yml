@@ -1,0 +1,9 @@
+name: @NAME@
+version: @VERSION@
+description: @DESCRIPTION@
+author: BlackEagle
+prefix: @NAME@
+
+main: @GROUP@.@NAME_LC@.@NAME@Plugin
+api-version: 1.14
+load: POSTWORLD
