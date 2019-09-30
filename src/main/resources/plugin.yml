@@ -7,3 +7,10 @@ prefix: @NAME@
 main: @GROUP@.@NAME_LC@.@NAME@Plugin
 api-version: 1.14
 load: POSTWORLD
+
+commands:
+  oregenerator:
+    aliases: og
+    description: @DESCRIPTION@
+    permission: @NAME_LC@.command.oregenerator
+    usage: /oregenerator - Open Ore Generator GUI
